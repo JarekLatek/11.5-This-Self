@@ -1,0 +1,24 @@
+* {
+  box-sizing: border-box; }
+
+body {
+  margin: 0;
+  padding-top: 40vh;
+  position: relative; }
+  body button {
+    background-color: #2980b9;
+    width: 350px;
+    height: 100px;
+    position: absolute;
+    left: 0;
+    right: 0;
+    margin: auto;
+    color: #fff;
+    font-size: 45px;
+    cursor: pointer;
+    border: 3px solid #2c3e50;
+    border-radius: 10px; }
+    body button:hover {
+      background-color: #27ae60; }
+
+/*# sourceMappingURL=main.css.map */
